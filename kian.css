@@ -1,0 +1,33 @@
+body{
+    background: url("img/bg.jpg") no-repeat center center;
+}
+.modal-content{
+    margin-top: 150px;
+    -webkit-box-shadow: 14px 15px 25px 20px rgba(224,255,255,0.54);
+    -moz-box-shadow: 14px 15px 25px 20px rgba(224,255,255,0.54);
+    box-shadow: 14px 15px 25px 20px rgba(224,255,255,0.54);
+    background: #a3f5f5
+    
+}
+.user-img{
+    margin-top: -50px;
+    margin-bottom: 30px
+}
+.user-img image{
+    width: 120px;
+    height: 150px;
+    border-radius: 15px
+}
+
+.btn{
+    background-color: rgb(65, 202, 111);
+    margin-bottom: 15px; 
+}
+.forgot{
+    padding: 5px 0 25px;
+    color:  lightgray
+}
+
+.form-check label{
+    color: darkgray
+}
